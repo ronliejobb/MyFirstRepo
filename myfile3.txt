@@ -1,2 +1,3 @@
 This is some text3
 her kommer litt mer kode
+Oppdatert etter at GIT Lens er installert
